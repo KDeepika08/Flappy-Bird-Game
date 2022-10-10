@@ -1,2 +1,4 @@
 # Flappy-Bird-Game
-A game developed using Pygame( a python library)
+
+Project Link: https://gitlab.com/wise-team-16/wise-flappy-bird
+
